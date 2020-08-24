@@ -14,7 +14,7 @@ DISCOTRESS is developed by me, Daniel J. Sharpe. Currently, I am in the final ye
 
 ## About me
 
-I love natural history, and in particular I am a bird enthusiast 🐦🦆🦢🦚🦅🦉🦩🦜 I spend my free time sketching critters 🦌🐍🐠🦨🐦
+I love natural history, and in particular I am a bird enthusiast 🐦🦢🦚🦅🦉🦩🦜 I spend my free time sketching critters 🦌🐍🐠🦨🐦
 
 <!--
 **danieljsharpe/danieljsharpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
